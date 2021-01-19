@@ -1,2 +1,3 @@
 # Project exclude paths
 /venv/python39/
+/pversion.egg-info/
