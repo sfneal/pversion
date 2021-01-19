@@ -54,7 +54,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Stephen Neal** - *Initial work* - [synfo](https://github.com/sfneal)
+* **Stephen Neal** - *Initial work* - [pversion](https://github.com/sfneal)
 
 ## License
 
